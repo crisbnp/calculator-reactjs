@@ -2,8 +2,9 @@
   "name": "calculatorv2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/crisbnp/calculator-reactjs",
+  "homepage": "https://crisbnp.github.io/calculator-reactjs/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5"
