@@ -1,0 +1,17 @@
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#f5e1da;
+    color: #476269;
+    font-weight: bold;
+    font-size: 1.2rem;
+    border: 1px solid white;
+    border-radius: 6px;
+  }
+
+  .btn:active {
+      background-color: rgba(64,167,152,0.7);
+      color: #fff;
+  }
+  
