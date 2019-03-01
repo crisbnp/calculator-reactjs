@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/crisbnp/calculator-reactjs/precache-manifest.2de892c7f42c9b2215c64828272d6ce3.js"
+  "/calculator-reactjs/precache-manifest.589c75597faff8a8c44231ba374c1790.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/crisbnp/calculator-reactjs/index.html", {
+workbox.routing.registerNavigationRoute("/calculator-reactjs/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
